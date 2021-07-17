@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my code skills
+<!-- - 🔭 I’m currently working on improving my code skills
 - 🌱 I’m currently learning Vue, React and Node
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Web Development in general
 - 💬 Ask me about anything (probably I won't know the answer)
 - 📫 How to reach me: @vitordwb on telegram
-- ⚡ Fun fact: I've used to compete on Muay Thai fights
+- ⚡ Fun fact: I've used to compete on Muay Thai fights -->
 
 <br>
 
