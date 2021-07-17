@@ -6,9 +6,7 @@
 - 🤔 I’m looking for help with Web Development in general
 - 💬 Ask me about anything (probably I won't know the answer)
 - 📫 How to reach me: @vitordwb on telegram
-- ⚡ Fun fact: I rather dogs over cats
-
-<br>
+- ⚡ Fun fact: I've used to compete on Muay Thai fights
 
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 
