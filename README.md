@@ -8,6 +8,8 @@
 - 📫 How to reach me: @vitordwb on telegram
 - ⚡ Fun fact: I've used to compete on Muay Thai fights
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 
 <hr>
