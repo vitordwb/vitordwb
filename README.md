@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on improving my code skills
@@ -9,9 +11,6 @@
 - 💬 Ask me about anything (probably I won't know the answer) -->
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
-
 <!-- <hr>
  -->
 <p align="center">
