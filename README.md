@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
-
-### Hi there 👋
+### Hi there 👋                                          ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 
 - 🔭 I’m currently working on improving my code skills
 - 🌱 I’m currently learning Vue, React and Node
