@@ -8,6 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Web Development in general
 - 💬 Ask me about anything (probably I won't know the answer) -->
+![Metrics](https://metrics.lecoq.io/vitordwb)
 
 <br>
 <!-- <hr>
