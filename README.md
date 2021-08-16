@@ -15,6 +15,6 @@
 <!-- <hr>
  -->
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=vitordwb&theme=default&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordwb&hide=html&layout=compact&theme=default">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=vitordwb&theme=default&show_icons=true&bg_color=00000000">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordwb&hide=html&layout=compact&theme=default&bg_color=00000000">
 </p>
