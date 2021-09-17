@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">Automation Engineer Undergrad and Beginer Software Developer</h3>
+<h3 align="center">Automation Engineer Undergrad and Beginner Software Developer</h3>
 <!--
 - 🔭 I’m currently working on improving my code skills
 - 🌱 I’m currently learning Vue, React and Node
