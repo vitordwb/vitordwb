@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">Automation Engineer Undergrad and Beginner Software Developer</h3>
 
-- 🔭 I’m currently working on improving my code skills
-- 🌱 I’m currently learning Vue, React and Node
+- 🔭  I’m currently working on improving my code skills
+- 🌱  I’m currently learning Vue, React and Node
 <!--
 - 📫 How to reach me: @vitordwb on telegram
 - ⚡ Fun fact: I've used to compete on Muay Thai fights
