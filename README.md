@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my code skills
 - 🌱 I’m currently learning Vue, React and Node
-- ⚡ Fun fact: I'm a car enthusiast and my dream car is a civic 2.0 aspirated
+- ⚡ Fun fact: I'm a car enthusiast
 
 <!--
 - 📫 How to reach me: @vitordwb on telegram
