@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">Engineer Undergrad and Software Developer</h3>
 
-- 🔭 I’m currently working on improving my code skills
-- 🌱 I’m currently learning Vue, React and Node
-- ⚡ Fun fact: I'm a car enthusiast
+- 📫 How to reach me: @vitordwb on telegram 
+- 🔭 I’m currently working on IoT for fleet car tracking and controling
+- 🌱 I’m currently learning React, Node and TypeScript (actually always learning)
+- ⚡ Fun fact: I'm a car enthusiast 🚗
 
 <!--
-- 📫 How to reach me: @vitordwb on telegram
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Web Development in general
 - 💬 Ask me about anything (probably I won't know the answer)
