@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: @vitordwb on telegram 
 - 🔭 I’m currently working on IoT for fleet car tracking and controling
-- 🌱 I’m currently learning React, Node and TypeScript (actually always learning)
+- 🌱 I’m currently learning React, Node and TypeScript (actually always learning something new)
 - ⚡ Fun fact: I'm a car enthusiast
 
 <!--
