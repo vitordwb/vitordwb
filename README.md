@@ -3,7 +3,7 @@
 <h3 align="center">Engineer Undergrad and Software Developer</h3>
 
 - 📫 How to reach me: @vitordwb on telegram 
-- 🔭 I’m currently working on IoT for fleet car tracking and controling
+- 🔭 I’m currently working on IoT for fleet car tracking
 - 🌱 I’m currently learning React, Node and TypeScript (actually always learning something new)
 - ⚡ Fun fact: I'm a car enthusiast
 
