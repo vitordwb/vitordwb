@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on IoT for car fleet tracking
 - 🌱 I’m currently learning React, Node and TypeScript (actually always learning something new)
+- 🎯 Fav programming languages: TypeScript, Rust and Golang
 - ⚡ Fun fact: I'm a car enthusiast
 
 <!--
