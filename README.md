@@ -22,5 +22,5 @@
 <p align="center">
     <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=vitordwb&show_icons=true&bg_color=00000000&text_color=0366D6&icon_color=339af0&title_color=0366DE&include_all_commits=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordwb&hide=html&layout=compact&theme=prussian&bg_color=00000000&text_color=4078c0&icon_color=339af0&title_color=0366DE&include_all_commits=true">
-    <img alt="Jaime's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats">
+    <img alt="Jaime's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitordwb&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats">
 </p>
