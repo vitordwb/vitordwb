@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@vitordwb)  
+[![wakatime](https://wakatime.com/badge/user/8a05dd6a-9546-4e25-822b-4e7b0a242538.svg)](https://wakatime.com/@vitordwb)  
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">Engineer Undergrad and Software Developer</h3>
 
