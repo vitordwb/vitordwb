@@ -3,11 +3,11 @@
 
 <h1 align="center">Engineer Undergrad | Software Developer</h1>
 <!-- <h3 align="center">Engineer Undergrad | Software Developer</h3> -->
-
+<!-- 
 - 🔭 I’m currently working on IoT for car fleet tracking
 - 🌱 I’m currently learning React, Node and TypeScript (actually always learning something new)
 - 🎯 Fav programming languages: TypeScript, Rust and Golang
-- ⚡ Fun fact: I'm a car enthusiast
+- ⚡ Fun fact: I'm a car enthusiast -->
 
 <!--
 - 📫 How to reach me:
