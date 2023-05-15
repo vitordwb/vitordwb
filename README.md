@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/fd250e06-1867-4aa4-82c5-3be013135ad3.svg)](https://wakatime.com/@vitord)
 
-<h1 align="center">Control Engineer</h1>
+<h1 align="center">Software Engineer</h1>
 <!-- <h3 align="center">Engineer Undergrad | Software Developer</h3> -->
 <!-- 
 - 🔭 I’m currently working on IoT for car fleet tracking
