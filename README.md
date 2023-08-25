@@ -24,7 +24,6 @@
 <!-- <hr>
  -->
 <p align="center">
-     <img alt="Vitor's GitHub Stats" height="160em"  src="https://github-readme-stats-eta-liart.vercel.app?username=vitordwb&count_private=true&show_icons=true&bg_color=00000000&text_color=0366D6&icon_color=339af0&title_color=0366DE&hide_border=true&include_all_commits=true">
      <img alt="Vitor's GitHub Stats" height="160em"  src="https://github-readme-stats-vitordwb.vercel.app/api?username=vitordwb&count_private=true&show_icons=true&bg_color=00000000&text_color=0366D6&icon_color=339af0&title_color=0366DE&hide_border=true&include_all_commits=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats-vitordwb.vercel.app/api/top-langs/?username=vitordwb&hide=html&layout=compact&theme=prussian&bg_color=00000000&text_color=4078c0&icon_color=339af0&title_color=0366DE&hide_border=true&include_all_commits=true">
 </p>
