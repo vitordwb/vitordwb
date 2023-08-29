@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 
 <h1 align="center">Hi, I'm Vitor 👋 </h1>
-<h3 align="center">Engineer Undergrad | Software Developer</h3>
+<h1 align="center">Engineer Undergrad | Software Developer</h2>
 
 <!-- 
 - 🔭 I’m currently working on IoT for car fleet tracking
