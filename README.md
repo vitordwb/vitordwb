@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vitordwb&style=flat-square)
 
-<h1 align="center">Software Developer | BS in Engineering</h1>
+<h1 align="center">software developer | BS in engineering</h1>
 
 <!-- 
 - 🔭 I’m currently working on IoT for car fleet tracking
